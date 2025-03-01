@@ -14,15 +14,6 @@ contas e listar contas.
 
 - [Regras de Negócio](https://github.com/Gabrieladevti/Desafio-Otimizando-Sistema-Bancario-Python/blob/main/regras-de-negocio.md)
 
-
-## Desafio Otimizando o sistema Bancário com Funções Python 
-Nesse projeto eu pude otimizar o sistema bancário que foi criado anteriormente, esse projeto foi
-todo desenvolvido utilizando linguagem de programação Python. Nesse desafio de projeto eu 
-trouxe melhorias ao código fonte refatorando e modularizando com funções deixando o código ainda 
-mais limpo, utilizei alguns conceitos do Clean Code.
-
-- [Primeira versão do MyBank](https://github.com/Danilo55Amaral/Desafio-Sistema-Bancario-Python)
-
 ## Tecnologias utilizadas
 - Python
 
