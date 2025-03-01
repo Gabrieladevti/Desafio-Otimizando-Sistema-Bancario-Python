@@ -12,7 +12,7 @@ Esse desafio de projeto foi proposto pelo bootcamp Potência Tech powered by iFo
 Essa nova versão do sistema trouxe as funcionalidades de criar usuário, criar 
 contas e listar contas. 
 
-- [Regras de Negócio](https://github.com/Danilo55Amaral/Desafio-Otimizando-Sistema-Bancario-Python/blob/main/regras-de-negocio.md)
+- [Regras de Negócio](https://github.com/Gabrieladevti/Desafio-Otimizando-Sistema-Bancario-Python/blob/main/regras-de-negocio.md)
 
 
 ## Desafio Otimizando o sistema Bancário com Funções Python 
